@@ -1,0 +1,62 @@
+/* ---------------------------
+
+CSS TABLE OF CONTENTS
+
+#GLOBAL CSS 
+    #BODY
+    #TYPOGRAPHY
+    #LINKS
+    #BUTTONS
+
+----------------------------*/
+/*HEADINGS*/
+h1, h2, h3 {
+  margin: .5em 0; }
+
+h1 {
+  font-size: 3em;
+  line-height: 1;
+  color: orange; }
+
+h2 {
+  font-size: 2em;
+  line-height: 1.1; }
+
+h3 {
+  font-size: 1.5em;
+  line-height: 1.2; }
+
+p {
+  max-width: 35em; }
+
+body {
+  font-size: 100%;
+  line-height: 1.4;
+  color: rgba(0, 0, 0, 0.81); }
+
+a {
+  color: #da8b37; }
+
+a:hover {
+  color: #541414; }
+
+/* TYPE SPECIMEN */
+.mainhead {
+  font-size: 6em;
+  color: orange;
+  margin-bottom: 0; }
+
+.subhead {
+  margin-bottom: 1em; }
+
+/*  #BUTTONS  */
+.button {
+  background-color: #da8b37;
+  color: #fff;
+  padding: 1em;
+  display: inline-block;
+  margin: .5em;
+  border-radius: .5em; }
+
+body {
+  background-color: #dcf1e6; }
